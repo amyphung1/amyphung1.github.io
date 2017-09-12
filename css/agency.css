@@ -44,11 +44,11 @@ section {
     padding: 150px 0; } }
 
 ::-moz-selection {
-  background: #fed136;
+  background: ##828079;
   text-shadow: none; }
 
 ::selection {
-  background: #fed136;
+  background: ##828079;
   text-shadow: none; }
 
 img::selection {

@@ -22,7 +22,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', sans-serif;
   text-transform: uppercase; }
 
 section {
@@ -44,11 +44,11 @@ section {
     padding: 150px 0; } }
 
 ::-moz-selection {
-  background: ##828079;
+  background: ##fed136;
   text-shadow: none; }
 
 ::selection {
-  background: ##828079;
+  background: ##fed136;
   text-shadow: none; }
 
 img::selection {
@@ -115,7 +115,7 @@ body {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("https://www.walldevil.com/wallpapers/a77/background-blue-blurry-images.jpg");
+  background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -562,8 +562,8 @@ ul.social-buttons {
   padding: 20px 40px;
   border-radius: 3px;
   color: white;
-  border-color: #fed136;
-  background-color: #fed136;
+  border-color: #00FFFF;
+  background-color: rgba(0,0,0,0);
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase; }
   .btn-xl.focus, .btn-xl:focus {
